@@ -1,0 +1,29 @@
+.checkbox {
+  margin-right: 10px;
+}
+
+.checked {
+  text-decoration: line-through;
+  color: #b6b6b6;
+  background: #0099ff13;
+}
+
+.nochecked {
+  text-decoration: none;
+}
+
+.deleteBtn {
+  float: right;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: inline;
+}
+
+.filter {
+  margin-right: 10px;
+}
